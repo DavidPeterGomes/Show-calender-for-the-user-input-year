@@ -6,4 +6,4 @@ try:
 except ValueError: # means ki uper integer nahi input kuya to error
   print("invalid input, enter a valid numeric figure")
   exit()
-print(calendar.calendar(year))
+  print(calendar.calendar(year))
